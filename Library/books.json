@@ -1,0 +1,34 @@
+{
+    "books": [
+        {
+            "title": "India of My Dreams",
+            "author": "Mahatma Gandhi",
+            "isbn": "9784567892342",
+            "available": true
+        },
+        {
+            "title": "Cricket My Style",
+            "author": "Kapil Dev",
+            "isbn": "9875645231567",
+            "available": true
+        },
+        {
+            "title": "A River Sutra",
+            "author": "Gita Mehta",
+            "isbn": "9876234598762",
+            "available": true
+        },
+        {
+            "title": "Long Walk to Freedom",
+            "author": "Nelson Mandela",
+            "isbn": "9867452123456",
+            "available": false
+        }
+    ],
+    "borrow_history": {
+        "9784567892342": 0,
+        "9875645231567": 0,
+        "9876234598762": 0,
+        "9867452123456": 1
+    }
+}

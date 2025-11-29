@@ -1,0 +1,21 @@
+{
+    "members": [
+        {
+            "name": "Sonia",
+            "member_id": "45678934",
+            "borrowed_books": []
+        },
+        {
+            "name": "Anshika",
+            "member_id": "23456789",
+            "borrowed_books": []
+        },
+        {
+            "name": "Sonam",
+            "member_id": "34567834",
+            "borrowed_books": [
+                "9867452123456"
+            ]
+        }
+    ]
+}
